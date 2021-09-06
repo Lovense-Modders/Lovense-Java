@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LovenseAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LovenseAPI_jar</output-path>
+    <root id="archive" name="LovenseAPI.jar">
+      <element id="module-output" name="LovenseAPI" />
+      <element id="extracted-dir" path="$USER_HOME$/Bureau/gson-2.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
